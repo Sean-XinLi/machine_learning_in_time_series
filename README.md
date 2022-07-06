@@ -3,7 +3,7 @@ some projects for remembering, linear model(wiener filter, LMS, RLS, APA family)
 
 I am a graduate student of Electrical and Computer engineering department in University of Florida.
 
-I love thinking, learing, creating. 
+I love thinking, learning, creating. 
 
 I also love soda ,🎼and 💃.
 
